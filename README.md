@@ -1,6 +1,7 @@
 Group Members:
 1. Maura Brositz
 2. Manal Boukaabar
+3. Brendan MacMichael
 
 Description of project:
 First input it takes is the user's name.
